@@ -6,9 +6,12 @@ Muhammad Hadi Hussain , a student at Fast university , i am eager to learn and t
 **I Will Be Best In The Bussiness**\
 _I Will Make Big Projects_\
 ***I will be an ethical hacker***\
-1 Hellow
-2 Hi
-3 Great
+1. Hello
+2. graet
+3. Man
+   
+
+
 - Sir
 - great
 - man
